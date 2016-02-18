@@ -1,0 +1,10 @@
+#canvas{
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -300px;
+	margin-top: -300px;
+	border: 1px solid black;
+	background: rgb(98,65,24);
+}
