@@ -8,3 +8,19 @@
 	border: 1px solid black;
 	background: rgb(98,65,24);
 }
+#again{
+	position: absolute;
+	top:200px;
+	right: 200px;
+	width: 80px;
+	height: 40px;
+
+}
+#huiqi{
+	position: absolute;
+	top:320px;
+	right: 200px;
+	width: 80px;
+	height: 40px;
+
+}
